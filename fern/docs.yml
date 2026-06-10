@@ -21,6 +21,7 @@ navigation:
   - tab: Encyclopedia
     layout:
       - section: A
+        collapsed: true
         contents:
           - page: Accumulatio
             path: docs/pages/accumulatio.mdx
@@ -70,7 +71,7 @@ navigation:
             path: docs/pages/asyndeton.mdx
           - page: Atticism
             path: docs/pages/atticism.mdx
-          - page: Austin jl 19111960
+          - page: Austin, J.L. (1911–1960)
             path: docs/pages/austin-jl-19111960.mdx
           - page: Author
             path: docs/pages/author.mdx
@@ -79,22 +80,24 @@ navigation:
           - page: Aytoun, Edward Edmondstoune
             path: docs/pages/aytoun-edward-edmondstoune.mdx
       - section: B
+        collapsed: true
         contents:
-          - page: Barthes roland 19151980
+          - page: Barthes, Roland (1915–1980)
             path: docs/pages/barthes-roland-19151980.mdx
           - page: Basic Concepts (Operant Conditioning)
             path: docs/pages/basic-concepts-operant.mdx
-          - page: Bede 672 or 673735 ce
+          - page: Bede (672 or 673–735 C.E.)
             path: docs/pages/bede-672-or-673735-ce.mdx
-          - page: Bentham jeremy 17481832
+          - page: Bentham, Jeremy (1748–1832)
             path: docs/pages/bentham-jeremy-17481832.mdx
           - page: Berthoff, Ann E. (b. 1924)
             path: docs/pages/berthoff-ann-e-b-1924.mdx
-          - page: Britton james 19081994
+          - page: Britton, James (1908–1994)
             path: docs/pages/britton-james-19081994.mdx
-          - page: Burkes approach to understanding how language functions
+          - page: Burke's approach to understanding how language functions
             path: docs/pages/burkes-approach-to-understanding-how-language-functions.mdx
       - section: C
+        collapsed: true
         contents:
           - page: CAMPBELL, GEORGE; SMITH, ADAM
             path: docs/pages/campbell-george-smith-adam.mdx
@@ -110,7 +113,7 @@ navigation:
             path: docs/pages/chomsky-noam-b-1928.mdx
           - page: CICERO; DIALOGICS; PLATO; TOPICS
             path: docs/pages/cicero-dialogics-plato-topics.mdx
-          - page: Cixous hlne b 1937
+          - page: Cixous, Hélène (b. 1937)
             path: docs/pages/cixous-hlne-b-1937.mdx
           - page: Clarity
             path: docs/pages/clarity.mdx
@@ -148,15 +151,16 @@ navigation:
             path: docs/pages/contrast.mdx
           - page: Copia
             path: docs/pages/copia.mdx
-          - page: Corax c 490 bcec 440 bce
+          - page: Corax (c. 490 B.C.E.–c. 440 B.C.E.)
             path: docs/pages/corax-c-490-bcec-440-bce.mdx
           - page: Correctness
             path: docs/pages/correctness.mdx
           - page: Current-Traditional Rhetoric
             path: docs/pages/current-traditional-rhetoric.mdx
       - section: D
+        collapsed: true
         contents:
-          - page: De man paul 19191983
+          - page: De Man, Paul (1919–1983)
             path: docs/pages/de-man-paul-19191983.mdx
           - page: Decorum
             path: docs/pages/decorum.mdx
@@ -166,7 +170,7 @@ navigation:
             path: docs/pages/definition.mdx
           - page: Delivery
             path: docs/pages/delivery.mdx
-          - page: Demetrius of phalerum c 350 283 bce
+          - page: Demetrius of Phalerum (c. 350 –283 B.C.E.)
             path: docs/pages/demetrius-of-phalerum-c-350-283-bce.mdx
           - page: DERRIDA, JACQUES
             path: docs/pages/derrida-jacques.mdx
@@ -188,11 +192,12 @@ navigation:
             path: docs/pages/doublespeak.mdx
           - page: Dramatism
             path: docs/pages/dramatism.mdx
-          - page: Dubois web 18681963
+          - page: DuBois, W.E.B. (1868–1963)
             path: docs/pages/dubois-web-18681963.mdx
       - section: E
+        collapsed: true
         contents:
-          - page: Edward pj corbett
+          - page: Edward P.J. Corbett
             path: docs/pages/edward-pj-corbett.mdx
           - page: Eight-Legged Essay
             path: docs/pages/eight-legged-essay.mdx
@@ -202,7 +207,7 @@ navigation:
             path: docs/pages/electronic-rhetoric.mdx
           - page: Elocution
             path: docs/pages/elocution.mdx
-          - page: Emerson ralph waldo 18031882
+          - page: Emerson, Ralph Waldo (1803–1882)
             path: docs/pages/emerson-ralph-waldo-18031882.mdx
           - page: Emphasis
             path: docs/pages/emphasis.mdx
@@ -235,18 +240,20 @@ navigation:
           - page: Expressionism
             path: docs/pages/expressionism.mdx
       - section: F
+        collapsed: true
         contents:
           - page: Fallacy
             path: docs/pages/fallacy.mdx
-          - page: Fell margaret 16141702
+          - page: Fell, Margaret (1614–1702)
             path: docs/pages/fell-margaret-16141702.mdx
           - page: FIGURES OF SPEECH; WILSON, THOMAS
             path: docs/pages/figures-of-speech-wilson-thomas.mdx
           - page: FIGURES; PEACHAM, HENRY; RAMUS, PETER; STYLE;
             path: docs/pages/figures-peacham-henry-ramus-peter-style.mdx
-          - page: Frank j dangelo
+          - page: Frank J. D'Angelo
             path: docs/pages/frank-j-dangelo.mdx
       - section: G
+        collapsed: true
         contents:
           - page: Genre
             path: docs/pages/genre.mdx
@@ -259,6 +266,7 @@ navigation:
           - page: Grammar
             path: docs/pages/grammar.mdx
       - section: H
+        collapsed: true
         contents:
           - page: Handbooks
             path: docs/pages/handbooks.mdx
@@ -281,6 +289,7 @@ navigation:
           - page: Hyperbole
             path: docs/pages/hyperbole.mdx
       - section: I
+        collapsed: true
         contents:
           - page: Identification
             path: docs/pages/identification.mdx
@@ -309,6 +318,7 @@ navigation:
           - page: Isocrates
             path: docs/pages/isocrates.mdx
       - section: K
+        collapsed: true
         contents:
           - page: Kairos
             path: docs/pages/kairos.mdx
@@ -317,6 +327,7 @@ navigation:
           - page: KENNETH L.; YOUNG, RICHARD Talon, Omer (1515?–1562)
             path: docs/pages/kenneth-l-young-richard-talon-omer-1515-1562.mdx
       - section: L
+        collapsed: true
         contents:
           - page: Language Arts
             path: docs/pages/language-arts.mdx
@@ -339,6 +350,7 @@ navigation:
           - page: Logos
             path: docs/pages/logos.mdx
       - section: M
+        collapsed: true
         contents:
           - page: Magic
             path: docs/pages/magic.mdx
@@ -363,6 +375,7 @@ navigation:
           - page: Myth
             path: docs/pages/myth.mdx
       - section: N
+        collapsed: true
         contents:
           - page: Narratio
             path: docs/pages/narratio.mdx
@@ -371,6 +384,7 @@ navigation:
           - page: Nineteenth-Century Rhetoric
             path: docs/pages/nineteenth-century-rhetoric.mdx
       - section: O
+        collapsed: true
         contents:
           - page: Olbrechts-Tyteca, Lucie (1899-1988)
             path: docs/pages/olbrechts-tyteca-lucie-1899-1988.mdx
@@ -387,6 +401,7 @@ navigation:
           - page: ORATORY; RELIGIOUS RHETORIC; SERMON
             path: docs/pages/oratory-religious-rhetoric-sermon.mdx
       - section: P
+        collapsed: true
         contents:
           - page: Parenthesis
             path: docs/pages/parenthesis.mdx
@@ -459,6 +474,7 @@ navigation:
           - page: PULPIT ORATORY; SERMON
             path: docs/pages/pulpit-oratory-sermon.mdx
       - section: Q
+        collapsed: true
         contents:
           - page: Quadrivium
             path: docs/pages/quadrivium.mdx
@@ -467,6 +483,7 @@ navigation:
           - page: QUINTILIAN
             path: docs/pages/quintilian.mdx
       - section: R
+        collapsed: true
         contents:
           - page: RAYMOND
             path: docs/pages/raymond.mdx
@@ -515,6 +532,7 @@ navigation:
           - page: Royal Society of London
             path: docs/pages/royal-society-of-london.mdx
       - section: S
+        collapsed: true
         contents:
           - page: Salutatio
             path: docs/pages/salutatio.mdx
@@ -553,6 +571,7 @@ navigation:
           - page: SYNECDOCHE
             path: docs/pages/synecdoche.mdx
       - section: T
+        collapsed: true
         contents:
           - page: Tagmemics
             path: docs/pages/tagmemics.mdx
@@ -579,16 +598,19 @@ navigation:
           - page: Twentieth-Century Rhetoric
             path: docs/pages/twentieth-century-rhetoric.mdx
       - section: U
+        collapsed: true
         contents:
           - page: Unity
             path: docs/pages/unity.mdx
           - page: URES OF SPEECH
             path: docs/pages/ures-of-speech.mdx
       - section: V
+        collapsed: true
         contents:
           - page: Voice
             path: docs/pages/voice.mdx
       - section: W
+        collapsed: true
         contents:
           - page: W. Ross Winterowd
             path: docs/pages/w-ross-winterowd.mdx
@@ -603,6 +625,7 @@ navigation:
           - page: Writing across the Curriculum
             path: docs/pages/writing-across-the-curriculum.mdx
       - section: Y
+        collapsed: true
         contents:
           - page: YOUNG, RICHARD
             path: docs/pages/young-richard.mdx
