@@ -50,3 +50,21 @@ code, pre, kbd, samp {
 [class*="methodBadge"] {
   display: none !important;
 }
+
+/* --- Fix Mobile Search / AI Assistant positioning and overflow --- */
+@media (max-width: 39.99rem) {
+  #fern-search-dialog {
+    left: 0 !important;
+    right: 0 !important;
+    top: 0 !important;
+    width: 100vw !important;
+    max-width: 100vw !important;
+    height: 100dvh !important;
+    max-height: 100dvh !important;
+    transform: none !important;
+    translate: none !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+  }
+}
+
