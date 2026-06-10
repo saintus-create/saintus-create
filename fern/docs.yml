@@ -611,13 +611,14 @@ navigation:
           - page: Young, Richard
             path: docs/pages/young-richard.mdx
 navbar-links: []
+css: ./styles.css
 colors:
   accent-primary:
-    light: "#FFFFFF"
-    dark: "#FFFFFF"
+    light: "#1e3a8a"   # Indigo 800 for sufficient contrast
+    dark: "#6366f1"    # Indigo 400 for dark mode
   background:
-    light: "#FFFFFF"
-    dark: "#000000"
+    light: "#f9fafb"   # Gray 50
+    dark: "#111827"    # Gray 900
   border:
-    light: "#000000"
-    dark: "#FFFFFF"
+    light: "#e5e7eb"   # Gray 200
+    dark: "#374151"    # Gray 700
