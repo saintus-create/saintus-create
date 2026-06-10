@@ -621,11 +621,3 @@ colors:
   border:
     light: "#000000"
     dark: "#FFFFFF"
-  text:
-    light: "#000000"
-    dark: "#FFFFFF"
-theme:
-  page-actions: toolbar
-  footer-nav: minimal
-favicon: docs/assets/favicon.svg
-css: styles.css
