@@ -10,6 +10,7 @@
     "docs:index": "ts-node scripts/generate-index.ts",
     "docs:qa": "ts-node scripts/quality.ts",
     "docs:format": "prettier --write \"fern/**/*.md\"",
+    "docs:nav": "ts-node scripts/generate-navigation.ts",
     "format:py": "black scripts/*.py"
   },
   "devDependencies": {

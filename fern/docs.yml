@@ -26,9 +26,9 @@ navigation:
             path: docs/pages/accumulatio.mdx
           - page: Actio
             path: docs/pages/actio.mdx
-          - page: Advertising Rhetoric of
+          - page: Advertising, Rhetoric of
             path: docs/pages/advertising-rhetoric-of.mdx
-          - page: African American Rhetoric
+          - page: African-American Rhetoric
             path: docs/pages/african-american-rhetoric.mdx
           - page: Anacoluthon
             path: docs/pages/anacoluthon.mdx
@@ -62,7 +62,7 @@ navigation:
             path: docs/pages/aristotle.mdx
           - page: Arrangement
             path: docs/pages/arrangement.mdx
-          - page: Ars Praedicandi
+          - page: Ars praedicandi
             path: docs/pages/ars-praedicandi.mdx
           - page: Asterismos
             path: docs/pages/asterismos.mdx
@@ -70,7 +70,7 @@ navigation:
             path: docs/pages/asyndeton.mdx
           - page: Atticism
             path: docs/pages/atticism.mdx
-          - page: Austin, J. L. (1911-1960)
+          - page: Austin jl 19111960
             path: docs/pages/austin-jl-19111960.mdx
           - page: Author
             path: docs/pages/author.mdx
@@ -80,37 +80,37 @@ navigation:
             path: docs/pages/aytoun-edward-edmondstoune.mdx
       - section: B
         contents:
-          - page: Barthes, Roland (1915-1980)
+          - page: Barthes roland 19151980
             path: docs/pages/barthes-roland-19151980.mdx
           - page: Basic Concepts (Operant Conditioning)
             path: docs/pages/basic-concepts-operant.mdx
-          - page: Bede (672 or 673-735 CE)
+          - page: Bede 672 or 673735 ce
             path: docs/pages/bede-672-or-673735-ce.mdx
-          - page: Bentham, Jeremy (1748-1832)
+          - page: Bentham jeremy 17481832
             path: docs/pages/bentham-jeremy-17481832.mdx
-          - page: Berthoff, Ann E. B. (1924)
+          - page: Berthoff, Ann E. (b. 1924)
             path: docs/pages/berthoff-ann-e-b-1924.mdx
-          - page: Britton, James (1908-1994)
+          - page: Britton james 19081994
             path: docs/pages/britton-james-19081994.mdx
-          - page: Burke's Approach to Understanding How Language Functions
+          - page: Burkes approach to understanding how language functions
             path: docs/pages/burkes-approach-to-understanding-how-language-functions.mdx
       - section: C
         contents:
-          - page: Campbell, George Smith Adam
+          - page: CAMPBELL, GEORGE; SMITH, ADAM
             path: docs/pages/campbell-george-smith-adam.mdx
           - page: Catachresis
             path: docs/pages/catachresis.mdx
           - page: Cause and Effect
             path: docs/pages/cause-and-effect.mdx
-          - page: Century Rhetoric, Whately, Richard
+          - page: CENTURY RHETORIC; WHATELY, RICHARD
             path: docs/pages/century-rhetoric-whately-richard.mdx
           - page: Chiasmus
             path: docs/pages/chiasmus.mdx
           - page: Chomsky, Noam (b. 1928)
             path: docs/pages/chomsky-noam-b-1928.mdx
-          - page: Cicero Dialogics Plato Topics
+          - page: CICERO; DIALOGICS; PLATO; TOPICS
             path: docs/pages/cicero-dialogics-plato-topics.mdx
-          - page: Cixous, Hélène (b. 1937)
+          - page: Cixous hlne b 1937
             path: docs/pages/cixous-hlne-b-1937.mdx
           - page: Clarity
             path: docs/pages/clarity.mdx
@@ -130,9 +130,7 @@ navigation:
             path: docs/pages/communication.mdx
           - page: Comparison
             path: docs/pages/comparison.mdx
-          - page: Components
-            path: docs/pages/components.mdx
-          - page: Composition and Communication
+          - page: COMPOSITION AND COMMUNICATION;
             path: docs/pages/composition-and-communication.mdx
           - page: Composition Studies
             path: docs/pages/composition-studies.mdx
@@ -150,15 +148,15 @@ navigation:
             path: docs/pages/contrast.mdx
           - page: Copia
             path: docs/pages/copia.mdx
-          - page: Corax (c. 490 BCE-c. 440 BCE)
+          - page: Corax c 490 bcec 440 bce
             path: docs/pages/corax-c-490-bcec-440-bce.mdx
           - page: Correctness
             path: docs/pages/correctness.mdx
-          - page: Current Traditional Rhetoric
+          - page: Current-Traditional Rhetoric
             path: docs/pages/current-traditional-rhetoric.mdx
       - section: D
         contents:
-          - page: De Man, Paul (1919-1983)
+          - page: De man paul 19191983
             path: docs/pages/de-man-paul-19191983.mdx
           - page: Decorum
             path: docs/pages/decorum.mdx
@@ -168,9 +166,9 @@ navigation:
             path: docs/pages/definition.mdx
           - page: Delivery
             path: docs/pages/delivery.mdx
-          - page: Demetrius of Phalerum (c. 350-283 BCE)
+          - page: Demetrius of phalerum c 350 283 bce
             path: docs/pages/demetrius-of-phalerum-c-350-283-bce.mdx
-          - page: Derrida, Jacques
+          - page: DERRIDA, JACQUES
             path: docs/pages/derrida-jacques.mdx
           - page: Description
             path: docs/pages/description.mdx
@@ -190,11 +188,11 @@ navigation:
             path: docs/pages/doublespeak.mdx
           - page: Dramatism
             path: docs/pages/dramatism.mdx
-          - page: Du Bois, W. E. B. (1868-1963)
+          - page: Dubois web 18681963
             path: docs/pages/dubois-web-18681963.mdx
       - section: E
         contents:
-          - page: Edward, P. J. Corbett
+          - page: Edward pj corbett
             path: docs/pages/edward-pj-corbett.mdx
           - page: Eight-Legged Essay
             path: docs/pages/eight-legged-essay.mdx
@@ -204,7 +202,7 @@ navigation:
             path: docs/pages/electronic-rhetoric.mdx
           - page: Elocution
             path: docs/pages/elocution.mdx
-          - page: Emerson, Ralph Waldo (1803-1882)
+          - page: Emerson ralph waldo 18031882
             path: docs/pages/emerson-ralph-waldo-18031882.mdx
           - page: Emphasis
             path: docs/pages/emphasis.mdx
@@ -240,13 +238,13 @@ navigation:
         contents:
           - page: Fallacy
             path: docs/pages/fallacy.mdx
-          - page: Fell, Margaret (1614-1702)
+          - page: Fell margaret 16141702
             path: docs/pages/fell-margaret-16141702.mdx
-          - page: Figures of Speech, Wilson, Thomas
+          - page: FIGURES OF SPEECH; WILSON, THOMAS
             path: docs/pages/figures-of-speech-wilson-thomas.mdx
-          - page: Figures, Peacham, Henry, Ramus, Peter, Style
+          - page: FIGURES; PEACHAM, HENRY; RAMUS, PETER; STYLE;
             path: docs/pages/figures-peacham-henry-ramus-peter-style.mdx
-          - page: Frank, J. D'Angelo
+          - page: Frank j dangelo
             path: docs/pages/frank-j-dangelo.mdx
       - section: G
         contents:
@@ -274,7 +272,7 @@ navigation:
             path: docs/pages/historiographies-of-rhetoric.mdx
           - page: Homily
             path: docs/pages/homily.mdx
-          - page: Howell, Wilbur Samuel (1904-1992)
+          - page: Howell, Wilbur Samuel (1904–1992)
             path: docs/pages/howell-wilbur-samuel-1904-1992.mdx
           - page: Hypallage
             path: docs/pages/hypallage.mdx
@@ -294,8 +292,6 @@ navigation:
             path: docs/pages/imitation.mdx
           - page: Inclusio
             path: docs/pages/inclusio.mdx
-          - page: Index
-            path: docs/pages/index.mdx
           - page: Induction
             path: docs/pages/induction.mdx
           - page: Informal Logic
@@ -304,7 +300,7 @@ navigation:
             path: docs/pages/introduction-operant.mdx
           - page: Invention
             path: docs/pages/invention.mdx
-          - page: Invention Progymnasmata Quintilian Stasis
+          - page: INVENTION; PROGYMNASMATA; QUINTILIAN; STASIS
             path: docs/pages/invention-progymnasmata-quintilian-stasis.mdx
           - page: Irony
             path: docs/pages/irony.mdx
@@ -316,17 +312,17 @@ navigation:
         contents:
           - page: Kairos
             path: docs/pages/kairos.mdx
-          - page: Kenneth L. Young, Richard
+          - page: KENNETH L.; YOUNG, RICHARD
             path: docs/pages/kenneth-l-young-richard.mdx
-          - page: Kenneth L. Young, Richard, Talon, Omer (1515-1562)
+          - page: KENNETH L.; YOUNG, RICHARD Talon, Omer (1515?–1562)
             path: docs/pages/kenneth-l-young-richard-talon-omer-1515-1562.mdx
       - section: L
         contents:
           - page: Language Arts
             path: docs/pages/language-arts.mdx
-          - page: Lauer, Janice M. B. (1931)
+          - page: Lauer, Janice M. (b. 1931)
             path: docs/pages/lauer-janice-m-b-1931.mdx
-          - page: Linda, Ferreira-Buckley
+          - page: Linda Ferreira-Buckley
             path: docs/pages/linda-ferreira-buckley.mdx
           - page: Linguistics
             path: docs/pages/linguistics.mdx
@@ -348,7 +344,7 @@ navigation:
             path: docs/pages/magic.mdx
           - page: Memory
             path: docs/pages/memory.mdx
-          - page: Ment, Aristotle, Atticism, Cicero
+          - page: MENT; ARISTOTLE; ATTICISM; CICERO;
             path: docs/pages/ment-aristotle-atticism-cicero.mdx
           - page: Metadiscourse
             path: docs/pages/metadiscourse.mdx
@@ -356,13 +352,13 @@ navigation:
             path: docs/pages/metalepsis.mdx
           - page: Metaphor
             path: docs/pages/metaphor.mdx
-          - page: Metonymy, Synecdoche
+          - page: METONYMY; SYNECDOCHE
             path: docs/pages/metonymy-synecdoche.mdx
-          - page: Metonymy, Synecdoche, Figures of Speech, Any Isolatable
+          - page: METONYMY; SYNECDOCHE Figures of Speech Any isolatable
             path: docs/pages/metonymy-synecdoche-figures-of-speech-any-isolatable.mdx
           - page: Modes of Discourse
             path: docs/pages/modes-of-discourse.mdx
-          - page: Muriel, Saville-Troike
+          - page: Muriel Saville-Troike
             path: docs/pages/muriel-saville-troike.mdx
           - page: Myth
             path: docs/pages/myth.mdx
@@ -380,16 +376,16 @@ navigation:
             path: docs/pages/olbrechts-tyteca-lucie-1899-1988.mdx
           - page: Oliver, Robert T. (b. 1909)
             path: docs/pages/oliver-robert-t-b-1909.mdx
-          - page: Orality, McLuhan, Marshall, Visual
-            path: docs/pages/orality-mcluhan-marshall-visual.mdx
-          - page: Oratory, Religious Rhetoric
-            path: docs/pages/oratory-religious-rhetoric.mdx
-          - page: Oratory, Religious Rhetoric, Sermon
-            path: docs/pages/oratory-religious-rhetoric-sermon.mdx
           - page: Operant Conditioning
             path: docs/pages/operant-conditioning.mdx
           - page: Operant Versus Pavlovian Conditioning
             path: docs/pages/operant-versus-pavlovian-conditioning.mdx
+          - page: ORALITY; MCLUHAN, MARSHALL; VISUAL
+            path: docs/pages/orality-mcluhan-marshall-visual.mdx
+          - page: ORATORY; RELIGIOUS RHETORIC
+            path: docs/pages/oratory-religious-rhetoric.mdx
+          - page: ORATORY; RELIGIOUS RHETORIC; SERMON
+            path: docs/pages/oratory-religious-rhetoric-sermon.mdx
       - section: P
         contents:
           - page: Parenthesis
@@ -400,9 +396,9 @@ navigation:
             path: docs/pages/pathos.mdx
           - page: Pentad
             path: docs/pages/pentad.mdx
-          - page: Pentad, Symbolic Action
+          - page: PENTAD; SYMBOLIC ACTION
             path: docs/pages/pentad-symbolic-action.mdx
-          - page: Pentad, Tagmemics, Techn, Topics
+          - page: PENTAD; TAGMEMICS; TECHNÊ; TOPICS
             path: docs/pages/pentad-tagmemics-techn-topics.mdx
           - page: Peripatetics
             path: docs/pages/peripatetics.mdx
@@ -412,13 +408,13 @@ navigation:
             path: docs/pages/peroratio.mdx
           - page: Persona
             path: docs/pages/persona.mdx
-          - page: Persuasion
+          - page: PERSUASION
             path: docs/pages/persuasion.mdx
-          - page: Persuasion, Political Rhetoric
+          - page: PERSUASION; POLITICAL RHETORIC
             path: docs/pages/persuasion-political-rhetoric.mdx
-          - page: Phronesis
+          - page: Phronésis
             path: docs/pages/phron-sis.mdx
-          - page: Pizan, Christine de (1364-c. 1430)
+          - page: Pizan, Christine de (1364–c. 1430)
             path: docs/pages/pizan-christine-de-1364-c-1430.mdx
           - page: Pleonasm
             path: docs/pages/pleonasm.mdx
@@ -436,31 +432,31 @@ navigation:
             path: docs/pages/portfolio.mdx
           - page: Postmodernism
             path: docs/pages/postmodernism.mdx
-          - page: Poststructuralism
+          - page: POSTSTRUCTURALISM
             path: docs/pages/poststructuralism.mdx
           - page: Pragmatism
             path: docs/pages/pragmatism.mdx
           - page: Praxis
             path: docs/pages/praxis.mdx
-          - page: Praeteritio
+          - page: Preteritio
             path: docs/pages/preteritio.mdx
           - page: Probability
             path: docs/pages/probability.mdx
-          - page: Process-Product
+          - page: Process/Product
             path: docs/pages/process-product.mdx
-          - page: Project Protocols
+          - page: PROJECT; PROTOCOLS
             path: docs/pages/project-protocols.mdx
           - page: Prolegomena
             path: docs/pages/prolegomena.mdx
-          - page: Proof
+          - page: PROOF
             path: docs/pages/proof.mdx
-          - page: Propaganda
+          - page: PROPAGANDA
             path: docs/pages/propaganda.mdx
           - page: Protest Rhetoric
             path: docs/pages/protest-rhetoric.mdx
           - page: Protocols
             path: docs/pages/protocols.mdx
-          - page: Pulpit Oratory, Sermon
+          - page: PULPIT ORATORY; SERMON
             path: docs/pages/pulpit-oratory-sermon.mdx
       - section: Q
         contents:
@@ -468,21 +464,19 @@ navigation:
             path: docs/pages/quadrivium.mdx
           - page: Quine, Willard Van Orman (b. 1908)
             path: docs/pages/quine-willard-van-orman-b-1908.mdx
-          - page: Quintilian
+          - page: QUINTILIAN
             path: docs/pages/quintilian.mdx
       - section: R
         contents:
-          - page: Raymond
+          - page: RAYMOND
             path: docs/pages/raymond.mdx
           - page: Readability
             path: docs/pages/readability.mdx
           - page: Reader-Response Criticism
             path: docs/pages/reader-response-criticism.mdx
-          - page: Rhëtorik
-            path: docs/pages/rh-torik.mdx
           - page: Rhetor
             path: docs/pages/rhetor.mdx
-          - page: Rhetoric
+          - page: RHETORIC
             path: docs/pages/rhetoric.mdx
           - page: Rhetoric and Poetry
             path: docs/pages/rhetoric-and-poetry.mdx
@@ -490,39 +484,41 @@ navigation:
             path: docs/pages/rhetoric-and-psychiatry.mdx
           - page: Rhetoric and Technology
             path: docs/pages/rhetoric-and-technology.mdx
-          - page: Rhetoric, Current Traditional
-            path: docs/pages/rhetoric-current-traditional.mdx
-          - page: Rhetoric, Ethos, Invention, Pathos, Techn
-            path: docs/pages/rhetoric-ethos-invention-pathos-techn.mdx
-          - page: Rhetoric, Ethos, Invention, Pathos, Techn, Toulmin
-            path: docs/pages/rhetoric-ethos-invention-pathos-techn-toulmin.mdx
-          - page: Rhetoric, Nineteenth-Century Rhetoric
-            path: docs/pages/rhetoric-nineteenth-century-rhetoric.mdx
           - page: Rhetoric of Film
             path: docs/pages/rhetoric-of-film.mdx
           - page: Rhetoric of Silence
             path: docs/pages/rhetoric-of-silence.mdx
-          - page: Rhetoric, Roman Rhetoric
-            path: docs/pages/rhetoric-roman-rhetoric.mdx
           - page: Rhetoric Society of America
             path: docs/pages/rhetoric-society-of-america.mdx
-          - page: Rhetoric, Sophistic Rhetoric
+          - page: RHETORIC; CURRENT-TRADITIONAL
+            path: docs/pages/rhetoric-current-traditional.mdx
+          - page: RHETORIC; ETHOS; INVENTION; PATHOS; TECHNÊ
+            path: docs/pages/rhetoric-ethos-invention-pathos-techn.mdx
+          - page: RHETORIC; ETHOS; INVENTION; PATHOS; TECHNÊ Toulmin,
+            path: docs/pages/rhetoric-ethos-invention-pathos-techn-toulmin.mdx
+          - page: RHETORIC; NINETEENTH-CENTURY RHETORIC;
+            path: docs/pages/rhetoric-nineteenth-century-rhetoric.mdx
+          - page: RHETORIC; ROMAN RHETORIC
+            path: docs/pages/rhetoric-roman-rhetoric.mdx
+          - page: RHETORIC; SOPHISTIC RHETORIC
             path: docs/pages/rhetoric-sophistic-rhetoric.mdx
-          - page: Rhetoric, Sophistic Rhetoric, Semantics Related to A
+          - page: RHETORIC; SOPHISTIC RHETORIC Semantics Related to a
             path: docs/pages/rhetoric-sophistic-rhetoric-semantics-related-to-a.mdx
-          - page: Rhetoric, Tagmemics
+          - page: RHETORIC; TAGMEMICS
             path: docs/pages/rhetoric-tagmemics.mdx
           - page: Rhetorical Criticism
             path: docs/pages/rhetorical-criticism.mdx
           - page: Rhetorician
             path: docs/pages/rhetorician.mdx
+          - page: Rhêtorikê
+            path: docs/pages/rh-torik.mdx
           - page: Royal Society of London
             path: docs/pages/royal-society-of-london.mdx
       - section: S
         contents:
           - page: Salutatio
             path: docs/pages/salutatio.mdx
-          - page: Saussure, Ferdinand de, Signified
+          - page: SAUSSURE, FERDINAND DE; SIGNIFIED/
             path: docs/pages/saussure-ferdinand-de-signified.mdx
           - page: Schedules of Reinforcement
             path: docs/pages/schedules-of-reinforcement.mdx
@@ -530,23 +526,23 @@ navigation:
             path: docs/pages/scholasticism.mdx
           - page: Semiotics
             path: docs/pages/semiotics.mdx
-          - page: Sermon
+          - page: SERMON
             path: docs/pages/sermon.mdx
           - page: Sociolinguistics
             path: docs/pages/sociolinguistics.mdx
           - page: Sophist
             path: docs/pages/sophist.mdx
-          - page: Speaking and Writing
+          - page: SPEAKING AND WRITING
             path: docs/pages/speaking-and-writing.mdx
-          - page: Speech
+          - page: SPEECH
             path: docs/pages/speech.mdx
           - page: Speech Communication
             path: docs/pages/speech-communication.mdx
-          - page: Speech, Metaphor, Tropes
+          - page: SPEECH; METAPHOR; TROPES
             path: docs/pages/speech-metaphor-tropes.mdx
-          - page: Speech, Stylistics, Tropes
+          - page: SPEECH; STYLISTICS; TROPES
             path: docs/pages/speech-stylistics-tropes.mdx
-          - page: Stasis Theory
+          - page: STASIS THEORY
             path: docs/pages/stasis-theory.mdx
           - page: Style
             path: docs/pages/style.mdx
@@ -554,23 +550,23 @@ navigation:
             path: docs/pages/syllogism.mdx
           - page: Symploce
             path: docs/pages/symploce.mdx
-          - page: Synecdoche
+          - page: SYNECDOCHE
             path: docs/pages/synecdoche.mdx
       - section: T
         contents:
           - page: Tagmemics
             path: docs/pages/tagmemics.mdx
-          - page: Techn
+          - page: TECHNÊ
             path: docs/pages/techn.mdx
           - page: Telos
             path: docs/pages/telos.mdx
-          - page: The Academic Field That Has Developed Since the 1960s
+          - page: The academic field that has developed since the 1960s,
             path: docs/pages/the-academic-field-that-has-developed-since-the-1960s.mdx
-          - page: This Page Intentionally Left Blank
-            path: docs/pages/this-page-intentionally-left-blank.mdx
-          - page: Three-Term Contingency
+          - page: The Three-Term Contingency
             path: docs/pages/three-term-contingency.mdx
-          - page: Thomas, M. Carr, Jr.
+          - page: This page intentionally left blank
+            path: docs/pages/this-page-intentionally-left-blank.mdx
+          - page: Thomas M. Carr, Jr.
             path: docs/pages/thomas-m-carr-jr.mdx
           - page: Topics
             path: docs/pages/topics.mdx
@@ -578,7 +574,7 @@ navigation:
             path: docs/pages/translation.mdx
           - page: Trivium
             path: docs/pages/trivium.mdx
-          - page: Tropes
+          - page: TROPES
             path: docs/pages/tropes.mdx
           - page: Twentieth-Century Rhetoric
             path: docs/pages/twentieth-century-rhetoric.mdx
@@ -586,7 +582,7 @@ navigation:
         contents:
           - page: Unity
             path: docs/pages/unity.mdx
-          - page: Ures of Speech
+          - page: URES OF SPEECH
             path: docs/pages/ures-of-speech.mdx
       - section: V
         contents:
@@ -596,29 +592,29 @@ navigation:
         contents:
           - page: W. Ross Winterowd
             path: docs/pages/w-ross-winterowd.mdx
-          - page: Walter, J.
+          - page: WALTER J.
             path: docs/pages/walter-j.mdx
-          - page: Walter, J., Oratory, The Crafting of Persuasive Appeals That
+          - page: WALTER J. Oratory The crafting of persuasive appeals that
             path: docs/pages/walter-j-oratory-the-crafting-of-persuasive-appeals-that.mdx
           - page: Weaver, Richard M. (1910-1953)
             path: docs/pages/weaver-richard-m-1910-1953.mdx
           - page: Wendell, Barrett (1855-1921)
             path: docs/pages/wendell-barrett-1855-1921.mdx
-          - page: Writing Across the Curriculum
+          - page: Writing across the Curriculum
             path: docs/pages/writing-across-the-curriculum.mdx
       - section: Y
         contents:
-          - page: Young, Richard
+          - page: YOUNG, RICHARD
             path: docs/pages/young-richard.mdx
 navbar-links: []
 css: ./styles.css
 colors:
   accent-primary:
-    light: "#1e3a8a"   # Indigo 800 for sufficient contrast
-    dark: "#6366f1"    # Indigo 400 for dark mode
+    light: "#1e3a8a" # Indigo 800 for sufficient contrast
+    dark: "#6366f1" # Indigo 400 for dark mode
   background:
-    light: "#f9fafb"   # Gray 50
-    dark: "#111827"    # Gray 900
+    light: "#f9fafb" # Gray 50
+    dark: "#111827" # Gray 900
   border:
-    light: "#e5e7eb"   # Gray 200
-    dark: "#374151"    # Gray 700
+    light: "#e5e7eb" # Gray 200
+    dark: "#374151" # Gray 700
