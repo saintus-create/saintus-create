@@ -41,3 +41,12 @@ code, pre, kbd, samp {
   text-box-trim: both;
   text-box-edge: ex alphabetic;
 }
+
+/* --- Hide API Method Badges (GET/POST) --- */
+.fern-endpoint-method,
+.fern-method-badge,
+.fern-http-method,
+[class*="MethodBadge"],
+[class*="methodBadge"] {
+  display: none !important;
+}
