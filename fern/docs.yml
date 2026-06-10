@@ -34,29 +34,28 @@ navbar-links:
   url: https://dashboard.buildwithfern.com
 navigation:
 - layout:
-  - contents:
-    - icon: fa-solid fa-house
-      page: Welcome
+  - section: Get started
+    contents:
+    - page: Welcome
       path: docs/pages/welcome.mdx
-    - icon: fa-solid fa-pen-to-square
-      page: Edit your docs
+      icon: fa-solid fa-house
+    - page: Edit your docs
       path: docs/pages/editing-your-docs.mdx
-    - icon: fa-regular fa-gauge
-      page: Manage your docs
+      icon: fa-solid fa-pen-to-square
+    - page: Manage your docs
       path: docs/pages/dashboard.mdx
-    - icon: fa-solid fa-cubes
-      page: Use components
+      icon: fa-regular fa-gauge
+    - page: Use components
       path: docs/pages/components.mdx
-    - icon: fa-solid fa-code
-      page: Developer guide
+      icon: fa-solid fa-cubes
+    - page: Developer guide
       path: docs/pages/developer-guide.mdx
-    - icon: fa-solid fa-headset
-      page: Support
+      icon: fa-solid fa-code
+    - page: Support
       path: docs/pages/support.mdx
-    section: Get started
-  - contents:
-    - changelog: docs/changelog
-    section: Changelog
+      icon: fa-solid fa-headset
+  - section: Changelog
+    changelog: docs/changelog
   - section: Antonina Entries
     contents:
     - pages/about.md
