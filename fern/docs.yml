@@ -1,84 +1,474 @@
-# yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
-
+ai-search: {}
+colors:
+  accent-primary:
+    dark: '#FFFFFF'
+    light: '#FFFFFF'
+  background:
+    dark: '#0D0D0D'
+    light: '#FFFFFF'
+  border:
+    dark: '#373737'
+    light: '#DADADA'
+css: styles.css
+favicon: docs/assets/favicon.svg
 instances:
-  - url: us-fda.docs.buildwithfern.com
-    edit-this-page:
-      github:
-        owner: fern-starter
-        repo: saintus-create
-        branch: main
-      launch: dashboard
-title: U.S. FDA | Documentation
+- edit-this-page:
+    github:
+      branch: main
+      owner: fern-starter
+      repo: saintus-create
+    launch: dashboard
+  url: us-fda.docs.buildwithfern.com
 layout:
-  searchbar-placement: header
   page-width: full
+  searchbar-placement: header
   tabs-placement: header
+logo:
+  dark: docs/assets/logo-dark.svg
+  height: 20
+  href: https://buildwithfern.com
+  light: docs/assets/logo.svg
+navbar-links:
+- text: Edit
+  type: filled
+  url: https://dashboard.buildwithfern.com
+navigation:
+- layout:
+  - contents:
+    - icon: fa-solid fa-house
+      page: Welcome
+      path: docs/pages/welcome.mdx
+    - icon: fa-solid fa-pen-to-square
+      page: Edit your docs
+      path: docs/pages/editing-your-docs.mdx
+    - icon: fa-regular fa-gauge
+      page: Manage your docs
+      path: docs/pages/dashboard.mdx
+    - icon: fa-solid fa-cubes
+      page: Use components
+      path: docs/pages/components.mdx
+    - icon: fa-solid fa-code
+      page: Developer guide
+      path: docs/pages/developer-guide.mdx
+    - icon: fa-solid fa-headset
+      page: Support
+      path: docs/pages/support.mdx
+    section: Get started
+  - contents:
+    - changelog: docs/changelog
+    section: Changelog
+  tab: home
+- layout:
+  - contents:
+    - icon: fa-duotone fa-book
+      page: API reference
+      path: docs/pages/api-reference-overview.mdx
+    section: Overview
+  - api: Swagger Plant Store - OpenAPI 3.1
+    api-name: example-openapi
+  - api: Plant Store AsyncAPI
+    api-name: example-asyncapi
+  tab: API Reference
+- contents:
+  - pages/AGENTS.md
+  - pages/about.md
+  - pages/accumulatio.md
+  - pages/actio.md
+  - pages/advertising-rhetoric-of.md
+  - pages/african-american-rhetoric.md
+  - pages/ai-assistant.md
+  - pages/ai-chat-api.md
+  - pages/alphabetical.md
+  - pages/anacoluthon.md
+  - pages/anadiplosis.md
+  - pages/anaphora.md
+  - pages/anapodoton.md
+  - pages/anastrophe.md
+  - pages/antanaclasis.md
+  - pages/anthimeria.md
+  - pages/antidosis.md
+  - pages/antimetabole.md
+  - pages/antiptosis.md
+  - pages/antithesis.md
+  - pages/aposiopesis.md
+  - pages/apostrophe.md
+  - pages/argument.md
+  - pages/aristotle.md
+  - pages/arrangement.md
+  - pages/ars-praedicandi.md
+  - pages/asterismos.md
+  - pages/asyndeton.md
+  - pages/atticism.md
+  - pages/austin-jl-19111960.md
+  - pages/author.md
+  - pages/axiology.md
+  - pages/aytoun-edward-edmondstoune.md
+  - pages/barthes-roland-19151980.md
+  - pages/basic-concepts-operant.md
+  - pages/bede-672-or-673735-ce.md
+  - pages/bentham-jeremy-17481832.md
+  - pages/berthoff-ann-e-b-1924.md
+  - pages/bibliography.md
+  - pages/britton-james-19081994.md
+  - pages/burkes-approach-to-understanding-how-language-functions.md
+  - pages/campbell-george-smith-adam.md
+  - pages/catachresis.md
+  - pages/cause-and-effect.md
+  - pages/century-rhetoric-whately-richard.md
+  - pages/chiasmus.md
+  - pages/chomsky-noam-b-1928.md
+  - pages/cicero-dialogics-plato-topics.md
+  - pages/cixous-hlne-b-1937.md
+  - pages/clarity.md
+  - pages/classification.md
+  - pages/cognitive-rhetoric.md
+  - pages/coherence.md
+  - pages/cohesion.md
+  - pages/collaboration.md
+  - pages/commonplaces.md
+  - pages/communication.md
+  - pages/comparison.md
+  - pages/components.md
+  - pages/composition-and-communication.md
+  - pages/composition-studies.md
+  - pages/computer-applications-in-rhetoric.md
+  - pages/confirmatio.md
+  - pages/consubstantiality.md
+  - pages/contextuality.md
+  - pages/contingency.md
+  - pages/contrast.md
+  - pages/copia.md
+  - pages/corax-c-490-bcec-440-bce.md
+  - pages/correctness.md
+  - pages/cross-references.md
+  - pages/current-traditional-rhetoric.md
+  - pages/de-man-paul-19191983.md
+  - pages/decorum.md
+  - pages/deduction.md
+  - pages/definition.md
+  - pages/delivery.md
+  - pages/demetrius-of-phalerum-c-350-283-bce.md
+  - pages/derrida-jacques.md
+  - pages/description.md
+  - pages/diacope.md
+  - pages/diaphora.md
+  - pages/digressio.md
+  - pages/discourse-community.md
+  - pages/discourse.md
+  - pages/dissociation.md
+  - pages/doublespeak.md
+  - pages/dramatism.md
+  - pages/dubois-web-18681963.md
+  - pages/edward-pj-corbett.md
+  - pages/eight-legged-essay.md
+  - pages/eighteenth-century-rhetoric.md
+  - pages/electronic-rhetoric.md
+  - pages/elocution.md
+  - pages/emerson-ralph-waldo-18031882.md
+  - pages/emphasis.md
+  - pages/enallage.md
+  - pages/enthymeme.md
+  - pages/entry-types.md
+  - pages/epanalepsis.md
+  - pages/epanorthosis.md
+  - pages/epiphora.md
+  - pages/epizeuxis.md
+  - pages/eristic.md
+  - pages/ethnography.md
+  - pages/ethos.md
+  - pages/evidence.md
+  - pages/example.md
+  - pages/exordium.md
+  - pages/exposition.md
+  - pages/expressionism.md
+  - pages/fallacy.md
+  - pages/fell-margaret-16141702.md
+  - pages/figures-of-speech-wilson-thomas.md
+  - pages/figures-peacham-henry-ramus-peter-style.md
+  - pages/frank-j-dangelo.md
+  - pages/genre.md
+  - pages/ghostwriting.md
+  - pages/glossary-operant.md
+  - pages/gradatio.md
+  - pages/grammar.md
+  - pages/handbooks.md
+  - pages/hendiadys.md
+  - pages/hermeneutics.md
+  - pages/heuristics.md
+  - pages/historical-periods.md
+  - pages/historiographies-of-rhetoric.md
+  - pages/homily.md
+  - pages/how-to-use.md
+  - pages/howell-wilbur-samuel-1904-1992.md
+  - pages/hypallage.md
+  - pages/hyperbaton.md
+  - pages/hyperbole.md
+  - pages/identification.md
+  - pages/illustration.md
+  - pages/imagery.md
+  - pages/imitation.md
+  - pages/inclusio.md
+  - pages/index.md
+  - pages/induction.md
+  - pages/informal-logic.md
+  - pages/introduction-operant.md
+  - pages/invention-progymnasmata-quintilian-stasis.md
+  - pages/invention.md
+  - pages/irony.md
+  - pages/isocolon.md
+  - pages/isocrates.md
+  - pages/kairos.md
+  - pages/kenneth-l-young-richard-talon-omer-1515-1562.md
+  - pages/kenneth-l-young-richard.md
+  - pages/key-theorists.md
+  - pages/knowledge-graph.md
+  - pages/language-arts.md
+  - pages/lauer-janice-m-b-1931.md
+  - pages/lauer-janice-m-b-1931.md
+  - pages/linda-ferreira-buckley.md
+  - pages/linda-ferreira-buckley.md
+  - pages/linguistics.md
+  - pages/linguistics.md
+  - pages/literacy.md
+  - pages/literacy.md
+  - pages/liturgy.md
+  - pages/liturgy.md
+  - pages/llm-endpoints.md
+  - pages/logic.md
+  - pages/logic.md
+  - pages/logocentrism.md
+  - pages/logocentrism.md
+  - pages/logology.md
+  - pages/logology.md
+  - pages/logos.md
+  - pages/logos.md
+  - pages/magic.md
+  - pages/magic.md
+  - pages/memory.md
+  - pages/memory.md
+  - pages/ment-aristotle-atticism-cicero.md
+  - pages/ment-aristotle-atticism-cicero.md
+  - pages/metadiscourse.md
+  - pages/metadiscourse.md
+  - pages/metalepsis.md
+  - pages/metalepsis.md
+  - pages/metaphor.md
+  - pages/metaphor.md
+  - pages/metonymy-synecdoche-figures-of-speech-any-isolatable.md
+  - pages/metonymy-synecdoche-figures-of-speech-any-isolatable.md
+  - pages/metonymy-synecdoche.md
+  - pages/metonymy-synecdoche.md
+  - pages/modes-of-discourse.md
+  - pages/modes-of-discourse.md
+  - pages/muriel-saville-troike.md
+  - pages/muriel-saville-troike.md
+  - pages/myth.md
+  - pages/myth.md
+  - pages/narratio.md
+  - pages/narratio.md
+  - pages/national-council-of-teachers-of-english.md
+  - pages/national-council-of-teachers-of-english.md
+  - pages/nineteenth-century-rhetoric.md
+  - pages/nineteenth-century-rhetoric.md
+  - pages/olbrechts-tyteca-lucie-1899-1988.md
+  - pages/olbrechts-tyteca-lucie-1899-1988.md
+  - pages/oliver-robert-t-b-1909.md
+  - pages/oliver-robert-t-b-1909.md
+  - pages/operant-conditioning.md
+  - pages/operant-versus-pavlovian-conditioning.md
+  - pages/orality-mcluhan-marshall-visual.md
+  - pages/orality-mcluhan-marshall-visual.md
+  - pages/oratory-religious-rhetoric-sermon.md
+  - pages/oratory-religious-rhetoric.md
+  - pages/overview.md
+  - pages/parenthesis.md
+  - pages/partitio.md
+  - pages/pathos.md
+  - pages/pentad-symbolic-action.md
+  - pages/pentad-tagmemics-techn-topics.md
+  - pages/pentad.md
+  - pages/peripatetics.md
+  - pages/periphrasis.md
+  - pages/peroratio.md
+  - pages/persona.md
+  - pages/persuasion-political-rhetoric.md
+  - pages/persuasion.md
+  - pages/phron-sis.md
+  - pages/pizan-christine-de-1364-c-1430.md
+  - pages/pleonasm.md
+  - pages/ploce.md
+  - pages/poetics.md
+  - pages/polyptoton.md
+  - pages/polysyndeton.md
+  - pages/port-royalists.md
+  - pages/portfolio.md
+  - pages/postmodernism.md
+  - pages/poststructuralism.md
+  - pages/pragmatism.md
+  - pages/praxis.md
+  - pages/preteritio.md
+  - pages/probability.md
+  - pages/process-product.md
+  - pages/project-protocols.md
+  - pages/prolegomena.md
+  - pages/proof.md
+  - pages/propaganda.md
+  - pages/protest-rhetoric.md
+  - pages/protest-rhetoric.md
+  - pages/protocols.md
+  - pages/protocols.md
+  - pages/pulpit-oratory-sermon.md
+  - pages/pulpit-oratory-sermon.md
+  - pages/quadrivium.md
+  - pages/quadrivium.md
+  - pages/quine-willard-van-orman-b-1908.md
+  - pages/quine-willard-van-orman-b-1908.md
+  - pages/quintilian.md
+  - pages/quintilian.md
+  - pages/raymond.md
+  - pages/raymond.md
+  - pages/readability.md
+  - pages/readability.md
+  - pages/reader-response-criticism.md
+  - pages/reader-response-criticism.md
+  - pages/rh-torik.md
+  - pages/rhetor.md
+  - pages/rhetor.md
+  - pages/rhetoric-and-poetry.md
+  - pages/rhetoric-and-poetry.md
+  - pages/rhetoric-and-psychiatry.md
+  - pages/rhetoric-and-psychiatry.md
+  - pages/rhetoric-and-technology.md
+  - pages/rhetoric-and-technology.md
+  - pages/rhetoric-current-traditional.md
+  - pages/rhetoric-current-traditional.md
+  - pages/rhetoric-ethos-invention-pathos-techn-toulmin.md
+  - pages/rhetoric-ethos-invention-pathos-techn-toulmin.md
+  - pages/rhetoric-ethos-invention-pathos-techn.md
+  - pages/rhetoric-ethos-invention-pathos-techn.md
+  - pages/rhetoric-nineteenth-century-rhetoric.md
+  - pages/rhetoric-nineteenth-century-rhetoric.md
+  - pages/rhetoric-of-film.md
+  - pages/rhetoric-of-film.md
+  - pages/rhetoric-of-silence.md
+  - pages/rhetoric-of-silence.md
+  - pages/rhetoric-roman-rhetoric.md
+  - pages/rhetoric-roman-rhetoric.md
+  - pages/rhetoric-society-of-america.md
+  - pages/rhetoric-society-of-america.md
+  - pages/rhetoric-sophistic-rhetoric-semantics-related-to-a.md
+  - pages/rhetoric-sophistic-rhetoric-semantics-related-to-a.md
+  - pages/rhetoric-sophistic-rhetoric.md
+  - pages/rhetoric-sophistic-rhetoric.md
+  - pages/rhetoric-tagmemics.md
+  - pages/rhetoric-tagmemics.md
+  - pages/rhetoric.md
+  - pages/rhetoric.md
+  - pages/rhetorical-criticism.md
+  - pages/rhetorical-criticism.md
+  - pages/rhetorical-figures.md
+  - pages/rhetorician.md
+  - pages/rhetorician.md
+  - pages/rhtorik.md
+  - pages/rousseau-jean-jacques-17121778.md
+  - pages/royal-society-of-london.md
+  - pages/royal-society-of-london.md
+  - pages/salutatio.md
+  - pages/salutatio.md
+  - pages/saussure-ferdinand-de-signified.md
+  - pages/saussure-ferdinand-de-signified.md
+  - pages/schedules-of-reinforcement.md
+  - pages/scholasticism.md
+  - pages/scholasticism.md
+  - pages/sean-patrick-orourke.md
+  - pages/search-api.md
+  - pages/search.md
+  - pages/semiotics.md
+  - pages/semiotics.md
+  - pages/sermon.md
+  - pages/sermon.md
+  - pages/sharing.md
+  - pages/shelley-percy-bysshe-17921822.md
+  - pages/sidney-sir-philip-15541586.md
+  - pages/signifiedsignifiersignifying.md
+  - pages/sociolinguistics.md
+  - pages/sociolinguistics.md
+  - pages/sophist.md
+  - pages/sophist.md
+  - pages/speaking-and-writing.md
+  - pages/speaking-and-writing.md
+  - pages/speech-communication.md
+  - pages/speech-communication.md
+  - pages/speech-metaphor-tropes.md
+  - pages/speech-metaphor-tropes.md
+  - pages/speech-stylistics-tropes.md
+  - pages/speech-stylistics-tropes.md
+  - pages/speech.md
+  - pages/speech.md
+  - pages/stasis-theory.md
+  - pages/stasis-theory.md
+  - pages/style.md
+  - pages/style.md
+  - pages/syllogism.md
+  - pages/syllogism.md
+  - pages/symploce.md
+  - pages/symploce.md
+  - pages/synecdoche.md
+  - pages/synecdoche.md
+  - pages/tagmemics.md
+  - pages/tagmemics.md
+  - pages/techn.md
+  - pages/techn.md
+  - pages/telos.md
+  - pages/telos.md
+  - pages/test.md
+  - pages/the-academic-field-that-has-developed-since-the-1960s.md
+  - pages/the-academic-field-that-has-developed-since-the-1960s.md
+  - pages/this-page-intentionally-left-blank.md
+  - pages/this-page-intentionally-left-blank.md
+  - pages/thomas-m-carr-jr.md
+  - pages/thomas-m-carr-jr.md
+  - pages/three-term-contingency.md
+  - pages/topics.md
+  - pages/topics.md
+  - pages/translation.md
+  - pages/translation.md
+  - pages/trivium.md
+  - pages/trivium.md
+  - pages/tropes.md
+  - pages/tropes.md
+  - pages/truth-sojourner-17901883.md
+  - pages/twentieth-century-rhetoric.md
+  - pages/twentieth-century-rhetoric.md
+  - pages/unity.md
+  - pages/unity.md
+  - pages/ures-of-speech.md
+  - pages/ures-of-speech.md
+  - pages/voice.md
+  - pages/voice.md
+  - pages/w-ross-winterowd.md
+  - pages/w-ross-winterowd.md
+  - pages/walter-j-oratory-the-crafting-of-persuasive-appeals-that.md
+  - pages/walter-j-oratory-the-crafting-of-persuasive-appeals-that.md
+  - pages/walter-j.md
+  - pages/walter-j.md
+  - pages/weaver-richard-m-1910-1953.md
+  - pages/weaver-richard-m-1910-1953.md
+  - pages/wendell-barrett-1855-1921.md
+  - pages/wendell-barrett-1855-1921.md
+  - pages/writing-across-the-curriculum.md
+  - pages/writing-across-the-curriculum.md
+  - pages/young-richard.md
+  - pages/young-richard.md
+  section: Antonina Entries
 tabs:
-  home:
-    display-name: Home
-    icon: home
   API Reference:
     display-name: API Reference
     icon: puzzle
-navigation:
-  - tab: home
-    layout:
-      - section: Get started
-        contents:
-          - page: Welcome
-            path: docs/pages/welcome.mdx
-            icon: fa-solid fa-house
-          - page: Edit your docs
-            path: docs/pages/editing-your-docs.mdx
-            icon: fa-solid fa-pen-to-square
-          - page: Manage your docs
-            path: docs/pages/dashboard.mdx
-            icon: fa-regular fa-gauge
-          - page: Use components
-            path: docs/pages/components.mdx
-            icon: fa-solid fa-cubes
-          - page: Developer guide
-            path: docs/pages/developer-guide.mdx
-            icon: fa-solid fa-code
-          - page: Support
-            path: docs/pages/support.mdx
-            icon: fa-solid fa-headset
-      - section: Changelog
-        contents:
-          - changelog: docs/changelog
-  - tab: API Reference
-    layout:
-      - section: Overview
-        contents:
-          - page: API reference
-            path: docs/pages/api-reference-overview.mdx
-            icon: fa-duotone fa-book
-      - api: Swagger Plant Store - OpenAPI 3.1
-        api-name: example-openapi
-      - api: Plant Store AsyncAPI
-        api-name: example-asyncapi
-navbar-links:
-  - type: filled
-    text: Edit
-    url: https://dashboard.buildwithfern.com
-colors:
-  accent-primary:
-    light: "#FFFFFF"
-    dark: "#FFFFFF"
-  background:
-    light: "#FFFFFF"
-    dark: "#0D0D0D"
-  border:
-    light: "#DADADA"
-    dark: "#373737"
+  home:
+    display-name: Home
+    icon: home
 theme:
-  page-actions: toolbar
   footer-nav: minimal
-logo:
-  dark: docs/assets/logo-dark.svg
-  light: docs/assets/logo.svg
-  height: 20
-  href: https://buildwithfern.com
-favicon: docs/assets/favicon.svg
-css: styles.css
-ai-search: {}
+  page-actions: toolbar
+title: U.S. FDA | Documentation
