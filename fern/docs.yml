@@ -22,6 +22,8 @@ navigation:
     layout:
       - section: A
         contents:
+          - page: About This Encyclopedia
+            path: docs/pages/about.mdx
           - page: Accumulatio
             path: docs/pages/accumulatio.mdx
           - page: Actio
@@ -72,6 +74,8 @@ navigation:
             path: docs/pages/atticism.mdx
           - page: Austin jl 19111960
             path: docs/pages/austin-jl-19111960.mdx
+          - page: Austin, J.L. (1911–1960)
+            path: docs/pages/austin-j-l-1911-1960.mdx
           - page: Author
             path: docs/pages/author.mdx
           - page: Axiology
@@ -82,16 +86,26 @@ navigation:
         contents:
           - page: Barthes roland 19151980
             path: docs/pages/barthes-roland-19151980.mdx
+          - page: Barthes, Roland (1915–1980)
+            path: docs/pages/barthes-roland-1-9-1-5-9-8-0.mdx
           - page: Basic Concepts (Operant Conditioning)
             path: docs/pages/basic-concepts-operant.mdx
+          - page: Bede (672 or 673–735 C.E.)
+            path: docs/pages/bede-672-or-673-735-c-e.mdx
           - page: Bede 672 or 673735 ce
             path: docs/pages/bede-672-or-673735-ce.mdx
           - page: Bentham jeremy 17481832
             path: docs/pages/bentham-jeremy-17481832.mdx
+          - page: Bentham, Jeremy (1748–1832)
+            path: docs/pages/bentham-jeremy-1748-1832.mdx
           - page: Berthoff, Ann E. (b. 1924)
             path: docs/pages/berthoff-ann-e-b-1924.mdx
           - page: Britton james 19081994
             path: docs/pages/britton-james-19081994.mdx
+          - page: Britton, James (1908–1994)
+            path: docs/pages/britton-james-1908-1994.mdx
+          - page: Burke's approach to understanding how language functions
+            path: docs/pages/burke-s-approach-to-understanding-how-language-functions.mdx
           - page: Burkes approach to understanding how language functions
             path: docs/pages/burkes-approach-to-understanding-how-language-functions.mdx
       - section: C
@@ -112,6 +126,8 @@ navigation:
             path: docs/pages/cicero-dialogics-plato-topics.mdx
           - page: Cixous hlne b 1937
             path: docs/pages/cixous-hlne-b-1937.mdx
+          - page: Cixous, Hélène (b. 1937)
+            path: docs/pages/cixous-h-l-ne-b-1937.mdx
           - page: Clarity
             path: docs/pages/clarity.mdx
           - page: Classification
@@ -148,6 +164,8 @@ navigation:
             path: docs/pages/contrast.mdx
           - page: Copia
             path: docs/pages/copia.mdx
+          - page: Corax (c. 490 B.C.E.–c. 440 B.C.E.)
+            path: docs/pages/corax-c-4-9-0-b-c-e-c-4-4-0-b-c-e.mdx
           - page: Corax c 490 bcec 440 bce
             path: docs/pages/corax-c-490-bcec-440-bce.mdx
           - page: Correctness
@@ -158,6 +176,8 @@ navigation:
         contents:
           - page: De man paul 19191983
             path: docs/pages/de-man-paul-19191983.mdx
+          - page: De Man, Paul (1919–1983)
+            path: docs/pages/de-man-paul-1919-1983.mdx
           - page: Decorum
             path: docs/pages/decorum.mdx
           - page: Deduction
@@ -166,6 +186,8 @@ navigation:
             path: docs/pages/definition.mdx
           - page: Delivery
             path: docs/pages/delivery.mdx
+          - page: Demetrius of Phalerum (c. 350 –283 B.C.E.)
+            path: docs/pages/demetrius-of-phalerum-c-350-283-b-c-e.mdx
           - page: Demetrius of phalerum c 350 283 bce
             path: docs/pages/demetrius-of-phalerum-c-350-283-bce.mdx
           - page: DERRIDA, JACQUES
@@ -190,8 +212,12 @@ navigation:
             path: docs/pages/dramatism.mdx
           - page: Dubois web 18681963
             path: docs/pages/dubois-web-18681963.mdx
+          - page: DuBois, W.E.B. (1868–1963)
+            path: docs/pages/dubois-w-e-b-1868-1963.mdx
       - section: E
         contents:
+          - page: Edward P.J. Corbett
+            path: docs/pages/edward-p-j-corbett.mdx
           - page: Edward pj corbett
             path: docs/pages/edward-pj-corbett.mdx
           - page: Eight-Legged Essay
@@ -204,6 +230,8 @@ navigation:
             path: docs/pages/elocution.mdx
           - page: Emerson ralph waldo 18031882
             path: docs/pages/emerson-ralph-waldo-18031882.mdx
+          - page: Emerson, Ralph Waldo (1803–1882)
+            path: docs/pages/emerson-ralph-waldo-1803-1882.mdx
           - page: Emphasis
             path: docs/pages/emphasis.mdx
           - page: Enallage
@@ -240,12 +268,16 @@ navigation:
             path: docs/pages/fallacy.mdx
           - page: Fell margaret 16141702
             path: docs/pages/fell-margaret-16141702.mdx
+          - page: Fell, Margaret (1614–1702)
+            path: docs/pages/fell-margaret-1614-1702.mdx
           - page: FIGURES OF SPEECH; WILSON, THOMAS
             path: docs/pages/figures-of-speech-wilson-thomas.mdx
           - page: FIGURES; PEACHAM, HENRY; RAMUS, PETER; STYLE;
             path: docs/pages/figures-peacham-henry-ramus-peter-style.mdx
           - page: Frank j dangelo
             path: docs/pages/frank-j-dangelo.mdx
+          - page: Frank J. D'Angelo
+            path: docs/pages/frank-j-d-angelo.mdx
       - section: G
         contents:
           - page: Genre
@@ -272,6 +304,8 @@ navigation:
             path: docs/pages/historiographies-of-rhetoric.mdx
           - page: Homily
             path: docs/pages/homily.mdx
+          - page: HOMILY; PULPIT ORATORY
+            path: docs/pages/homily-pulpit-oratory.mdx
           - page: Howell, Wilbur Samuel (1904–1992)
             path: docs/pages/howell-wilbur-samuel-1904-1992.mdx
           - page: Hypallage
@@ -512,6 +546,8 @@ navigation:
             path: docs/pages/rhetorician.mdx
           - page: Rhêtorikê
             path: docs/pages/rh-torik.mdx
+          - page: Rousseau, Jean-Jacques (1712–1778)
+            path: docs/pages/rousseau-jean-jacques-1712-1778.mdx
           - page: Royal Society of London
             path: docs/pages/royal-society-of-london.mdx
       - section: S
@@ -524,10 +560,18 @@ navigation:
             path: docs/pages/schedules-of-reinforcement.mdx
           - page: Scholasticism
             path: docs/pages/scholasticism.mdx
+          - page: Sean Patrick O'Rourke
+            path: docs/pages/sean-patrick-o-rourke.mdx
           - page: Semiotics
             path: docs/pages/semiotics.mdx
           - page: SERMON
             path: docs/pages/sermon.mdx
+          - page: Shelley, Percy Bysshe (1792–1822)
+            path: docs/pages/shelley-percy-bysshe-1792-1822.mdx
+          - page: Sidney, Sir Philip (1554–1586)
+            path: docs/pages/sidney-sir-philip-1554-1586.mdx
+          - page: Signified/Signifier/Signifying
+            path: docs/pages/signified-signifier-signifying.mdx
           - page: Sociolinguistics
             path: docs/pages/sociolinguistics.mdx
           - page: Sophist
@@ -576,6 +620,8 @@ navigation:
             path: docs/pages/trivium.mdx
           - page: TROPES
             path: docs/pages/tropes.mdx
+          - page: Truth, Sojourner (1790–1883)
+            path: docs/pages/truth-sojourner-1790-1883.mdx
           - page: Twentieth-Century Rhetoric
             path: docs/pages/twentieth-century-rhetoric.mdx
       - section: U
